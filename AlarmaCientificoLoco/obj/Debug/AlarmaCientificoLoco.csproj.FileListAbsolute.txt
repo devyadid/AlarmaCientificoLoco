@@ -1,0 +1,7 @@
+C:\Users\Howgu\source\repos\AlarmaCientificoLoco\AlarmaCientificoLoco\bin\Debug\AlarmaCientificoLoco.exe.config
+C:\Users\Howgu\source\repos\AlarmaCientificoLoco\AlarmaCientificoLoco\bin\Debug\AlarmaCientificoLoco.exe
+C:\Users\Howgu\source\repos\AlarmaCientificoLoco\AlarmaCientificoLoco\bin\Debug\AlarmaCientificoLoco.pdb
+C:\Users\Howgu\source\repos\AlarmaCientificoLoco\AlarmaCientificoLoco\obj\Debug\AlarmaCientificoLoco.csproj.AssemblyReference.cache
+C:\Users\Howgu\source\repos\AlarmaCientificoLoco\AlarmaCientificoLoco\obj\Debug\AlarmaCientificoLoco.csproj.CoreCompileInputs.cache
+C:\Users\Howgu\source\repos\AlarmaCientificoLoco\AlarmaCientificoLoco\obj\Debug\AlarmaCientificoLoco.exe
+C:\Users\Howgu\source\repos\AlarmaCientificoLoco\AlarmaCientificoLoco\obj\Debug\AlarmaCientificoLoco.pdb
